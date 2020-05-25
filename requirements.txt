@@ -1,0 +1,3 @@
+codicefiscale
+asn1crypto
+pyxb==1.2.6
